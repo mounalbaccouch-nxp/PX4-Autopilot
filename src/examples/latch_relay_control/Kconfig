@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_LATCH_RELAY_CONTROL
+	bool "latch_relay_control"
+	default y
+	---help---
+		Enable support for latch relay control
